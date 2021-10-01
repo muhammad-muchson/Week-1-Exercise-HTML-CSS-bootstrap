@@ -1,0 +1,46 @@
+a {
+  color: grey !important;
+}
+a:hover {
+  color: #71c55d !important;
+  text-decoration: none !important;
+}
+.main-content-bg {
+  /* background-color: black; */
+  height: calc(90vh);
+  background: url(../img/hero-bg.png) bottom no-repeat;
+  background-size: 100%;
+}
+.text-home {
+  font-family: "Philosopher", sans-serif;
+  margin-top: 80px !important;
+}
+.section-contact {
+  background-color: #e4f4e1;
+}
+#contact .info i {
+  font-size: 25px;
+  color: rgb(59, 58, 58);
+  line-height: 0;
+  align-items: center;
+  margin-top : 8x;
+}
+#contact .info p {
+  font-size: 12px;
+  color: rgb(59, 58, 58);
+
+  margin-left:10px;
+
+  /* line-height: 0; */
+}
+
+.social-links{
+margin: 10px 50px 10px 0px;
+
+}
+
+.social-links i{
+  margin: 5px;
+  
+  }
+  
